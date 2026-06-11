@@ -1,0 +1,6 @@
+{
+  "name": "النظام المالي الموحد",
+  "description": "نظام إدارة مالية متعدد الفروع ذو قيد مزدوج ومطابق لمعايير المحاسبة الدولية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
